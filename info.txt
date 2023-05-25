@@ -1,0 +1,10 @@
+Como corrigir o presente teste.
+
+1. A parte do exercicio 1 foi desenvolvida usando base de dados mysql, abaixo os detalhes:
+username: root
+password: ""
+db: teste2
+
+A tabela esta em anexo.
+
+2. O exercicio 2 esta noo pacote desenho
