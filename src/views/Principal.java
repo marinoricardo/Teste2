@@ -188,10 +188,8 @@ public class Principal extends javax.swing.JFrame {
 
         for (Candidato c : lista) {
             dados.addRow(new Object[]{
-                c.getMunicipio(),
                 c.getNome(),
-                c.getBi(),
-                c.getHistorico(),});
+            });
         }
 //        candidatoController.listarCandidatosFromMunicipio(municipio.getId());
     }//GEN-LAST:event_comboMunicipioActionPerformed
